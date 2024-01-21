@@ -6,13 +6,9 @@
 
 Technical Story: ARD-1992
 
-## Context and Problem Statements
+## Context and Problem Statement
 
 I want to choose between two frameworks
-
-## Decision Drivers
-
-* We have had some discussions
 
 ## Considered Options
 
