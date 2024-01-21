@@ -6,7 +6,7 @@
 
 Technical Story: ARD-1992
 
-## Context and Problem Statement
+## Context and Problem Statements
 
 I want to choose between two frameworks
 
